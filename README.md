@@ -18,33 +18,12 @@ This project provides a modified EVM (Ethereum Virtual Machine) implementation d
  
 - Docker (optional)
 - Git
-
-### Installation
-
-```bash
-git clone https://github.com/build25/baas-evm.git
-cd baas-evm
-make install
-```
-
-### Running Locally
-
-```bash
-make run
-```
-
+- GCP
+ 
 ## Architecture
 
 For detailed architecture information, see [ARCHITECTURE.md](./baas/architecture.md)
-
-## Usage
-
-```solidity
-// Example contract demonstrating BaaS features
-contract BaaSExample {
-    // Custom BaaS-specific operations
-}
-```
+ 
 
 ## Contributing
 
