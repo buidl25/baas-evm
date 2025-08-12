@@ -1,7 +1,6 @@
 # Epics and Tasks for BaaS Platform Development
 
 This document breaks down the development work for the BaaS platform into epics and detailed tasks for the developer, based on the architecture document.
-
 ---
 
 ## Epic 1: BaaS Control Plane Implementation
